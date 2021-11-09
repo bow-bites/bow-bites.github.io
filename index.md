@@ -26,10 +26,10 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/mockup-landing.png)
 
-## Vendor Home Page 
+### Vendor Home Page 
 
-## Admin Home Page 
+### Admin Home Page 
 
-## Add Vendor Page 
+### Add Vendor Page 
 
-## User Profile
+### User Profile
