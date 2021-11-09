@@ -25,3 +25,11 @@ Different campus locations will also have pages with profiles of vendors and the
 The landing page is presented to users when they visit the top-level URL to the site.
 
 ![](images/mockup-landing.png)
+
+## Vendor Home Page 
+
+## Admin Home Page 
+
+## Add Vendor Page 
+
+## User Profile
