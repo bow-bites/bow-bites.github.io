@@ -32,4 +32,12 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### Add Vendor Page 
 
+The screen new vendors will be shown upon attempting to set up a new shop
+
+![](images/addVendor.jpg)
+
 ### User Profile
+
+What a user will see on their profile
+
+![](images/userProfile.jpg)
