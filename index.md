@@ -9,6 +9,10 @@
 
 The goal of ‘Bow Bites is to allow students to quickly and easily find a place to eat, including finding places that offer a specific type of food, places in certain locations, places that are currently open, and to be able to see the menus for the current day / week.
 
+## Repository
+
+[The bow-bites code repository](https://github.com/bow-bites/bow-bites)
+
 ## System Approach
 
 The system will eventually provide three roles: Users, who can log in establish and sort by their food preferences; Vendors, who can log in to set their choice of the day, and modify their profiles; and Admins, who can log in to set users as vendors, and administrate the system. 
