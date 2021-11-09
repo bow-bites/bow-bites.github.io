@@ -24,4 +24,4 @@ Different campus locations will also have pages with profiles of vendors and the
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page.png)
+![](images/mockup-landing.png)
