@@ -43,6 +43,17 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/mockup-landing.png)
 
+### Available Now Page
+
+The Available Now Page shows users what food they are able to get at that time.
+
+![](images/AvailableNow-mockup.png)
+
+### Top Picks Page
+
+The Top Picks Page shows users the day's top food picks. 
+
+![](images/TopPicks-mockup.png)
 
 ### Add Vendor Page 
 
