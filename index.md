@@ -9,6 +9,7 @@
 Henry Blazier: I am currently pursuing a degree in computer science at the University of Hawaii and am expected to graduate in 2022. I have an intrest in systems automation.
 [https://hbzxc.github.io/](https://hbzxc.github.io/)
 
+Alexander Jones: I'm studying for a B.S in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2022 or 2023. [https://acjones8.github.io](https://acjones8.github.io/)
 
 ## Goals
 
