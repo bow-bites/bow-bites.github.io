@@ -10,6 +10,10 @@ Henry Blazier: I am currently pursuing a degree in computer science at the Unive
 [https://hbzxc.github.io/](https://hbzxc.github.io/)
 
 
+Cole Amparo: I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023. 
+[https://coleamparo.github.io/](https://coleamparo.github.io/)
+
+
 ## Goals
 
 The goal of ‘Bow Bites is to allow students to quickly and easily find a place to eat, including finding places that offer a specific type of food, places in certain locations, places that are currently open, and to be able to see the menus for the current day / week.
