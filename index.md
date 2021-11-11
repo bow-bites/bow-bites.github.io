@@ -4,6 +4,11 @@
 * [System Approach](#system-approach)
 * [Mockup Pages](#mockup-pages)
 
+## Members
+
+Henry Blazier: I am currently pursuing a degree in computer science at the University of Hawaii and am expected to graduate in 2022. I have an intrest in systems automation.
+[https://hbzxc.github.io/](https://hbzxc.github.io/)
+
 
 ## Goals
 
@@ -38,7 +43,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 The screen new vendors will be shown upon attempting to set up a new shop
 
-![](images/addVendor.jpg)
+![](images/AddVendorMock.PNG)
 
 ### User Profile
 
