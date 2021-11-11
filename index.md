@@ -9,6 +9,9 @@
 
 The goal of ‘Bow Bites is to allow students to quickly and easily find a place to eat, including finding places that offer a specific type of food, places in certain locations, places that are currently open, and to be able to see the menus for the current day / week.
 
+## Repository
+
+[The bow-bites code repository](https://github.com/bow-bites/bow-bites)
 
 ## System Approach
 
