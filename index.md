@@ -66,3 +66,14 @@ The screen new vendors will be shown upon attempting to set up a new shop
 What a user will see on their profile
 
 ![](images/userProfile.jpg)
+
+## Deployment 
+
+Here is a picture of bow-bites deployed on digital ocean.
+
+![](images/bow-bites-deployed.png)
+
+Here is a link to out digital ocean droplet: 
+
+[http://143.198.158.134/#/](http://143.198.158.134/#/)
+
