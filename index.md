@@ -23,6 +23,9 @@ The goal of ‘Bow Bites is to allow students to quickly and easily find a place
 
 [The bow-bites code repository](https://github.com/bow-bites/bow-bites)
 
+## Deployment
+[Bow-Bites](http://143.198.158.134/#/)
+
 ## System Approach
 
 The system will eventually provide three roles: Users, who can log in establish and sort by their food preferences; Vendors, who can log in to set their choice of the day, and modify their profiles; and Admins, who can log in to set users as vendors, and administrate the system. 
