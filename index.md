@@ -61,11 +61,11 @@ The screen new vendors will be shown upon attempting to set up a new shop
 
 ![](images/AddVendorMock.PNG)
 
-### User Profile
+### Vendor List Page
 
-What a user will see on their profile
+A list of vendors, what food they sell, opening/closing times, and descriptions.
 
-![](images/userProfile.jpg)
+![](images/M1-listVendor.png)
 
 ## Deployment 
 
