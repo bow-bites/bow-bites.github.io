@@ -21,7 +21,7 @@ The goal of ‘Bow Bites is to allow students to quickly and easily find a place
 
 ## Repository
 
-[The bow-bites code repository](https://github.com/bow-bites/bow-bites)
+[The bow-bites code repository](https://github.com/bow-bites)
 
 ## System Approach
 
