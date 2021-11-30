@@ -74,7 +74,7 @@ Here is a picture of bow-bites deployed on digital ocean.
 ![](images/bow-bites-deployed.png)
 
 Here is a link to our digital ocean droplet: 
-[http://143.198.158.134/#/](http://143.198.158.134/#/)
+[https://bowbites.xyz/#/](https://bowbites.xyz/#/)
 
 ## Project Progress
 For Milestone 1, our progress was coordinated using the [M1](https://github.com/bow-bites/bow-bites/projects/1) project board.
