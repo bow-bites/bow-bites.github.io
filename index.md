@@ -2,6 +2,7 @@
 
 * [Goals](#goals)
 * [System Approach](#system-approach)
+* [Developer Guide](#developer-guide)
 * [Mockup Pages](#mockup-pages)
 
 ## Members
@@ -32,6 +33,59 @@ The directory of food items will be from UHM food vendors and Manoa Dining Servi
 Users will be able to see a page where food is recommended to them. Users can establish their preferences and exclude food they dislike. 
 
 Different campus locations will also have pages with profiles of vendors and their choice of the day. Vendors can log in and set their menu for the week.
+
+
+
+## Developer Guide 
+
+First, install meteor.
+
+Second, download a copy of bow-bites. Note that bow-bites is a private repo and so you will need to request permission from the author to gain access to the repo.
+
+Third, cd into the app directory install the required libraries with:
+
+```console
+$ meteor npm install
+```
+
+Once the libraries are installed, you can run the application by invoking:
+
+```console 
+$ meteor npm run start
+```
+
+The first time you run the app, it will create some default vendors, users, and favorites. Here is the output:
+
+```console
+meteor npm run start
+
+> meteor-application-template-react@ start /Users/philipjohnson/github/philipmjohnson/digits/app
+> meteor --no-release-check --settings ../config/settings.development.json
+
+=> Started proxy.                             
+=> Started MongoDB.                           
+I20211130-12:30:20.607(-10)? Creating the default user(s)
+I20211130-12:30:20.610(-10)?   Creating user admin@foo.com.
+I20211130-12:30:20.882(-10)?   Creating user john@foo.com.
+I20211130-12:30:21.061(-10)? Creating default Vendors.
+I20211130-12:30:21.063(-10)?   Adding: McD (john@foo.com)
+I20211130-12:30:21.159(-10)? Creating default Favorites.
+I20211130-12:30:21.161(-10)?   Adding: john@foo.com ([object Object])
+I20211130-12:30:21.434(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+
+```
+
+If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in settings.development.json, or else register a new account.
+
+Lastly, you can run ESLint over the code in the imports/ directory with:
+
+```console
+meteor npm run lint
+```
+
 
 ## Mockup Pages
 
