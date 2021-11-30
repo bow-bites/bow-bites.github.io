@@ -85,4 +85,6 @@ Here is a link to our digital ocean droplet:
 ## Project Progress
 For Milestone 1, our progress was coordinated using the [M1](https://github.com/bow-bites/bow-bites/projects/1) project board.
 
-For Milestone 2, we're currently using the [M2](https://github.com/bow-bites/bow-bites/projects/2) project board.
+For Milestone 2, our progress was coordinated using the [M2](https://github.com/bow-bites/bow-bites/projects/2) project board.
+
+For Milestone 3, we're currently using the [M3](https://github.com/bow-bites/bow-bites/projects/3) project board.
