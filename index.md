@@ -40,7 +40,7 @@ Different campus locations will also have pages with profiles of vendors and the
 
 First, install meteor.
 
-Second, download a copy of bow-bites. Note that bow-bites is a private repo and so you will need to request permission from the author to gain access to the repo.
+Second, download a copy of bow-bites. 
 
 Third, cd into the app directory install the required libraries with:
 
@@ -59,8 +59,10 @@ The first time you run the app, it will create some default vendors, users, and 
 ```console
 meteor npm run start
 
-> meteor-application-template-react@ start /Users/philipjohnson/github/philipmjohnson/digits/app
-> meteor --no-release-check --settings ../config/settings.development.json
+> meteor-application-template-react@ start /Users/coleamparo/GitHub/ColeAmparo/bow-bites/app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+
+[[[[[ ~/GitHub/ColeAmparo/bow-bites/app ]]]]] 
 
 => Started proxy.                             
 => Started MongoDB.                           
