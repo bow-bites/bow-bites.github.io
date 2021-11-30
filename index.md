@@ -67,6 +67,12 @@ A list of vendors, what food they sell, opening/closing times, and descriptions.
 
 ![](images/M1-listVendor.png)
 
+### User Profile Page
+
+Shows vendors that the user has liked
+
+![](images/UserPage.PNG)
+
 ## Deployment 
 
 Here is a picture of bow-bites deployed on digital ocean.
