@@ -4,36 +4,24 @@
 * [System Approach](#system-approach)
 * [Developer Guide](#developer-guide)
 * [Mockup Pages](#mockup-pages)
-
-## Members
-
-Henry Blazier: I am currently pursuing a degree in computer science at the University of Hawaii and am expected to graduate in 2022. I have an intrest in systems automation.
-[https://hbzxc.github.io/](https://hbzxc.github.io/)
-
-Alexander Jones: I'm studying for a B.S in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2022 or 2023. [https://acjones8.github.io](https://acjones8.github.io/)
-
-Cole Amparo: I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023. 
-[https://coleamparo.github.io/](https://coleamparo.github.io/)
+* [Organization and Members](#organization-and-members)
+* [Project Milestones](#project-milestones)
 
 
-## Goals
+
+
+
+## Overview
 
 The goal of ‘Bow Bites is to allow students to quickly and easily find a place to eat, including finding places that offer a specific type of food, places in certain locations, places that are currently open, and to be able to see the menus for the current day / week.
 
-## Organization
-
-[The bow-bites organization](https://github.com/bow-bites)
-
-## System Approach
-
-The system will eventually provide three roles: Users, who can log in establish and sort by their food preferences; Vendors, who can log in to set their choice of the day, and modify their profiles; and Admins, who can log in to set users as vendors, and administrate the system. 
+The system providea three roles: Users, who can log in establish and sort by their food preferences; Vendors, who can log in to set their choice of the day, and modify their profiles; and Admins, who can log in to set users as vendors, and administrate the system. 
 
 The directory of food items will be from UHM food vendors and Manoa Dining Services. It will be easy to use and allow food items to be sorted by their type (ethnicity, vegan/not vegan, etc...).
 
 Users will be able to see a page where food is recommended to them. Users can establish their preferences and exclude food they dislike. 
 
 Different campus locations will also have pages with profiles of vendors and their choice of the day. Vendors can log in and set their menu for the week.
-
 
 
 ## Developer Guide 
@@ -138,7 +126,22 @@ Here is a picture of bow-bites deployed on digital ocean.
 Here is a link to our digital ocean droplet: 
 [https://bowbites.xyz/#/](https://bowbites.xyz/#/)
 
-## Project Progress
+
+## Organization and Members
+
+Henry Blazier: I am currently pursuing a degree in computer science at the University of Hawaii and am expected to graduate in 2022. I have an intrest in systems automation.
+[https://hbzxc.github.io/](https://hbzxc.github.io/)
+
+Alexander Jones: I'm studying for a B.S in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in 2022 or 2023. [https://acjones8.github.io](https://acjones8.github.io/)
+
+Cole Amparo: I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023. 
+[https://coleamparo.github.io/](https://coleamparo.github.io/)
+
+[The bow-bites organization](https://github.com/bow-bites)
+
+
+
+## Project Milestones
 For Milestone 1, our progress was coordinated using the [M1](https://github.com/bow-bites/bow-bites/projects/1) project board.
 
 For Milestone 2, our progress was coordinated using the [M2](https://github.com/bow-bites/bow-bites/projects/2) project board.
