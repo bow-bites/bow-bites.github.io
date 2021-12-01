@@ -1,9 +1,8 @@
 ## Table of contents
 
-* [Goals](#goals)
-* [System Approach](#system-approach)
+* [Overview](#overview)
+* [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
-* [Mockup Pages](#mockup-pages)
 * [Organization and Members](#organization-and-members)
 * [Project Milestones](#project-milestones)
 
@@ -22,6 +21,58 @@ The directory of food items will be from UHM food vendors and Manoa Dining Servi
 Users will be able to see a page where food is recommended to them. Users can establish their preferences and exclude food they dislike. 
 
 Different campus locations will also have pages with profiles of vendors and their choice of the day. Vendors can log in and set their menu for the week.
+
+
+## User Guide
+
+This section provides a walkthrough of the bow-bites user interface and its capabilities.
+
+
+### Landing Page
+
+The landing page is presented to users when they visit the top-level URL to the site.
+
+![](images/landing-m2.png)
+
+### Available Now Page
+
+The Available Now Page shows users what food they are able to get at that time.
+
+![](images/AvailableNow-mockup.png)
+
+### Top Picks Page
+
+The Top Picks Page shows users the day's top food picks. 
+
+![](images/TopPicks-mockup.png)
+
+### Add Vendor Page 
+
+The screen new vendors will be shown upon attempting to set up a new shop
+
+![](images/AddVendorMock.PNG)
+
+### Vendor List Page
+
+A list of vendors, what food they sell, opening/closing times, and descriptions. There are options to delete a vendor, edit a vendor, and like a vendor.
+
+![](images/listvendor-m2.png)
+
+### User Profile Page
+
+Shows vendors that the user has liked
+
+![](images/UserPage.PNG)
+
+## Deployment 
+
+Here is a picture of bow-bites deployed on digital ocean.
+
+![](images/landing-m2.png)
+
+Here is a link to our digital ocean droplet: 
+[https://bowbites.xyz/#/](https://bowbites.xyz/#/)
+
 
 
 ## Developer Guide 
@@ -75,56 +126,6 @@ Lastly, you can run ESLint over the code in the imports/ directory with:
 ```console
 meteor npm run lint
 ```
-
-
-## Mockup Pages
-
-These are some examples of possible pages.
-
-### Landing Page
-
-The landing page is presented to users when they visit the top-level URL to the site.
-
-![](images/mockup-landing.png)
-
-### Available Now Page
-
-The Available Now Page shows users what food they are able to get at that time.
-
-![](images/AvailableNow-mockup.png)
-
-### Top Picks Page
-
-The Top Picks Page shows users the day's top food picks. 
-
-![](images/TopPicks-mockup.png)
-
-### Add Vendor Page 
-
-The screen new vendors will be shown upon attempting to set up a new shop
-
-![](images/AddVendorMock.PNG)
-
-### Vendor List Page
-
-A list of vendors, what food they sell, opening/closing times, and descriptions.
-
-![](images/M1-listVendor.png)
-
-### User Profile Page
-
-Shows vendors that the user has liked
-
-![](images/UserPage.PNG)
-
-## Deployment 
-
-Here is a picture of bow-bites deployed on digital ocean.
-
-![](images/bow-bites-deployed.png)
-
-Here is a link to our digital ocean droplet: 
-[https://bowbites.xyz/#/](https://bowbites.xyz/#/)
 
 
 ## Organization and Members
