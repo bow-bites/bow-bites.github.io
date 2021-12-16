@@ -48,6 +48,11 @@ A list of vendors, what food they sell, opening/closing times, and descriptions.
 ![](images/listvendor-m2.png)
 
 
+### Vendor Profile Page
+
+A place for vendors to showcase their menus, as well as their operating times, location, and food type. 
+
+
 ### User Profile Page
 
 Shows vendors that the user has favorited, and filter those favorited vendors. 
