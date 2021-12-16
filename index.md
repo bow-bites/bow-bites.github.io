@@ -74,6 +74,33 @@ Here is a link to our digital ocean droplet:
 [https://bowbites.xyz/#/](https://bowbites.xyz/#/)
 
 
+## Community Feedback
+
+#### Abdullah
+- Change text of Anything button to Pick for me button. (Implemented) 
+- Likes how you can have favorites and filter in User Profile.
+- Navbar shouldn't have "Edit my Vendors" tab if user does not own vendors.   
+
+#### Sarah 
+- On mobile if you click the "Pick for me" button and scroll, it will scroll through all the menu items.
+- Edit the landing page to be more clearly readable. (Implemented) 
+- Fix error in menu item data for The Bean Counter. (Implemented) 
+
+#### Josh 
+- Lack of email validation.
+- Would like a a way to see the how far the user is from the vendor.
+- Likes how everything is 1 or 2 clicks away from the homepage. 
+
+#### Christian 
+- Switch the position of the $ sign on the prices, since it usually comes before the price on a menu (Implemented)
+- Color the price in so that it stands out a bit more, since most people will be interested in the price right away
+
+#### Diane 
+- Some of the vendorImages are a bit fuzzy when they show full size in the vendorProfile, so maybe link some higher res ones (Implemented)
+- Add a little bit of extra spacing to the menu items and their descriptions, so that it flows a bit better and looks less cramped (Implemented)
+
+
+
 
 ## Developer Guide 
 
