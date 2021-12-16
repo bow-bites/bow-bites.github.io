@@ -32,25 +32,30 @@ This section provides a walkthrough of the bow-bites user interface and its capa
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/m3-landing.png)
+![](images/M3-Landing.PNG)
 
 ### Available Now Page
 
 The Available Now Page shows what vendors they are open at that time.
 
-![](images/AvailableNow-mockup.png)
+![](images/M3-AvaliableNow.PNG)
+
+If you cant decide we can!
+We will choose something for you from a place that is open
+![](images/M3-PickForMeBtn.PNG)
 
 
 ### Vendor List Page
 
 A list of vendors, what food they sell, opening/closing times, and descriptions. There are options to favorite a vendor if logged in as a user.
 
-![](images/listvendor-m2.png)
+![](images/M3-ListOfVendors.PNG)
 
 
 ### Vendor Profile Page
 
 A place for vendors to showcase their menus, as well as their operating times, location, and food type. 
+![](images/M3-VendorNoLog.PNG)
 
 
 ### User Profile Page
@@ -69,14 +74,11 @@ If a user owns a vendor they can go to this page to set the vendor's menu and pr
 
 The screen that the admin can access to add new vendors.
 
-![](images/m3-addVendor.png)
+![](images/AddVendorMock.PNG)
 
 ### Admin Page 
 
 Displays a list of all vendors, and allows the admin to delete or edit any vendor. 
-
-![](images/m3-admin.png)
-
 
 
 ## Deployment 
