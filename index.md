@@ -14,7 +14,7 @@
 
 The goal of ‘Bow Bites is to allow students to quickly and easily find a place to eat, including finding places that offer a specific type of food, places in certain locations, places that are currently open, and to be able to see the menus for the current day / week.
 
-The system providea three roles: Users, who can log in establish and sort by their food preferences; Vendors, who can log in to set their choice of the day, and modify their profiles; and Admins, who can log in to set users as vendors, and administrate the system. 
+The system providea three roles: Users, who can log in establish and sort by their food preferences; Vendors, who can log in to modify their profiles and set their menus; and Admins, who can log in to add and delete vendors, and administrate the system. 
 
 The directory of food items will be from UHM food vendors and Manoa Dining Services. It will be easy to use and allow food items to be sorted by their type (ethnicity, vegan/not vegan, etc...).
 
@@ -36,33 +36,40 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### Available Now Page
 
-The Available Now Page shows users what food they are able to get at that time.
+The Available Now Page shows what vendors they are open at that time.
 
 ![](images/AvailableNow-mockup.png)
 
-### Top Picks Page
-
-The Top Picks Page shows users the day's top food picks. 
-
-![](images/TopPicks-mockup.png)
-
-### Add Vendor Page 
-
-The screen new vendors will be shown upon attempting to set up a new shop
-
-![](images/AddVendorMock.PNG)
 
 ### Vendor List Page
 
-A list of vendors, what food they sell, opening/closing times, and descriptions. There are options to delete a vendor, edit a vendor, and like a vendor.
+A list of vendors, what food they sell, opening/closing times, and descriptions. There are options to favorite a vendor if logged in as a user.
 
 ![](images/listvendor-m2.png)
 
+
 ### User Profile Page
 
-Shows vendors that the user has liked
+Shows vendors that the user has favorited, and filter those favorited vendors. 
 
 ![](images/UserPage.PNG)
+
+
+### Edit Vendor Page 
+
+If a user owns a vendor they can go to this page to set the vendor's menu and profile. 
+
+
+### Add Vendor Page 
+
+The screen that the admin can access to add new vendors.
+
+![](images/AddVendorMock.PNG)
+
+### Admin Page 
+
+Displays a list of all vendors, and allows the admin to delete or edit any vendor. 
+
 
 ## Deployment 
 
