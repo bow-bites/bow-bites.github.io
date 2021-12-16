@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Organization and Members](#organization-and-members)
 * [Project Milestones](#project-milestones)
