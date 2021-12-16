@@ -47,6 +47,8 @@ A list of vendors, what food they sell, opening/closing times, and descriptions.
 
 ![](images/M3-ListOfVendors.PNG)
 
+![](images/M3-ListOfVendors.PNG)
+
 
 ### Vendor Profile Page
 
