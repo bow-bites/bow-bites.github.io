@@ -32,7 +32,7 @@ This section provides a walkthrough of the bow-bites user interface and its capa
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-m2.png)
+![](images/m3-landing.png)
 
 ### Available Now Page
 
@@ -69,11 +69,14 @@ If a user owns a vendor they can go to this page to set the vendor's menu and pr
 
 The screen that the admin can access to add new vendors.
 
-![](images/AddVendorMock.PNG)
+![](images/m3-addVendor.png)
 
 ### Admin Page 
 
 Displays a list of all vendors, and allows the admin to delete or edit any vendor. 
+
+![](images/m3-admin.png)
+
 
 
 ## Deployment 
