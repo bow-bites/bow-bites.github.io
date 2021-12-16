@@ -52,7 +52,7 @@ A list of vendors, what food they sell, opening/closing times, and descriptions.
 
 A place for vendors to showcase their menus, as well as their operating times, location, and food type. 
 
-![](M3-VendorProfile-LoggedIn.png)
+![](images/M3-VendorProfile-LoggedIn.png)
 
 ### User Profile Page
 
@@ -65,7 +65,7 @@ Shows vendors that the user has favorited, and filter those favorited vendors.
 
 If a user owns a vendor they can go to this page to set the vendor's menu and profile. 
 
-![](M3-EditMyVendors-LoggedIn.png)
+![](images/M3-EditMyVendors-LoggedIn.png)
 
 ### Add Vendor Page 
 
