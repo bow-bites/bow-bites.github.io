@@ -101,6 +101,7 @@ Here is a link to our digital ocean droplet:
 #### Christian 
 - Switch the position of the $ sign on the prices, since it usually comes before the price on a menu (Implemented)
 - Color the price in so that it stands out a bit more, since most people will be interested in the price right away
+- Add sizes for menu items (small, medium, large). 
 
 #### Diane 
 - Some of the vendorImages are a bit fuzzy when they show full size in the vendorProfile, so maybe link some higher res ones (Implemented)
