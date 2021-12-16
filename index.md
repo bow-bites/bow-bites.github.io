@@ -87,7 +87,7 @@ Displays a list of all vendors, and allows the admin to delete or edit any vendo
 
 Here is a picture of bow-bites deployed on digital ocean.
 
-![](images/landing-m2.png)
+![](images/M3-Deployment.png)
 
 Here is a link to our digital ocean droplet: 
 [https://bowbites.xyz/#/](https://bowbites.xyz/#/)
